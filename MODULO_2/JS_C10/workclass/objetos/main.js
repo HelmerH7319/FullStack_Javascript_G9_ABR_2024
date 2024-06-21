@@ -29,8 +29,6 @@
 // console.log("Esta es la edad del perro", dog.age)
 
 
-
-
 // const product = {
 //         name: "celular",
 //         marca: "Iphone",
@@ -71,8 +69,6 @@
 // product.sePuedeFinanciar = false;
 // 3 Puedo quitar una propiedades
 // delete product.descuento
-
-
 
 
 // const dog = {
@@ -117,3 +113,4 @@ const product = {
 
 const colorEnviado = product.estaDisponibleEnColor("blanco") // true
 console.log("Esta disponible en color blanco?", colorEnviado)
+
