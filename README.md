@@ -48,3 +48,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8. 31/05/2024 Repaso Ciclos, Array y Math: https://youtu.be/nuN0vnrSOcI
 - C9. 04/06/2024 Funciones: https://youtu.be/jqBqCcfi6cM
 - C10. 06/06/2024 Objetos y arrow function: https://youtu.be/5pgqNM--s-E
+- C11. 11/06/2024 Modificando el DOM: https://youtu.be/OaapSCdoTuU
+- C12. 13/06/2024 Algoritmia: https://youtu.be/yNV3c8nNqXY
+
+## Modulo 3
+- C1. 17/06/2024 Introducción a git: https://youtu.be/3UiKtbAMaMw
+- C2. 19/06/2024 Repaso comandos básicos de git y creación de ramas: https://youtu.be/wXdf2OctkTg
